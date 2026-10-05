@@ -3,7 +3,6 @@
 ## Personal projects
 | Repo | What it is |
 |---|---|
-| [ongresso-app](https://github.com/tpj-collective/ongresso-app) *(private)* | Ongresso unified docs reference app — Next.js |
 | [tpj-training-app](https://github.com/tpj-collective/tpj-training-app) *(private)* | TPJ Training System — mobile-first PWA, React 18 + Vite + TypeScript + Tailwind + Zustand |
 | [ai-developer-manual](https://github.com/tpj-collective/ai-developer-manual) | First-principles manual teaching modern software development — computer fundamentals, security, Git, AI agents, professional workflows |
 
